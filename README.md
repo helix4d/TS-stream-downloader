@@ -1,6 +1,7 @@
 # TS stream downloader
 
 *TS stream downloader* - bash script to download ts fragments from video stream services.
+
 Haw it work:
 1. Install ffmpeg in your OS.
 2. Go to the page with stream, that you want to download.
